@@ -1,4 +1,3 @@
-💼 Resumo Profissional
 Sou formado em Análise e Desenvolvimento de Sistemas, com foco atual em desenvolvimento front-end e transição progressiva para full stack. Tenho experiência prática em HTML, CSS, JavaScript e React, com projetos desenvolvidos por meio de formações na Alura, Udemy e estudos autodidatas. Estou constantemente aprendendo, buscando aplicar na prática os conhecimentos adquiridos em projetos reais.
 
 Entre meus projetos estão:
@@ -10,8 +9,6 @@ Fokus (Alura): timer com base no método Pomodoro.
 Memoteca: app de registro de pensamentos, com CRUD em JS puro.
 
 Clone da página inicial do Spotify: criado durante uma imersão React da Alura.
-
-ToDoList com TypeScript: projeto prático para controle de tarefas.
 
 Outros projetos menores de reforço de lógica e fundamentos web.
 
