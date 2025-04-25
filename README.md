@@ -6,6 +6,8 @@ Organo (Alura): aplicação para organização de equipes, com React.
 
 Fokus (Alura): timer com base no método Pomodoro.
 
+Cinetag (Alura): catálogo e player de filmes.
+
 Memoteca: app de registro de pensamentos, com CRUD em JS puro.
 
 Clone da página inicial do Spotify: criado durante uma imersão React da Alura.
